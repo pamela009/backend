@@ -37,6 +37,9 @@ let ap = new Imovel(2, 'Apartamento', 'Rua da Depressão, Bairro da Solidão, n�
 console.log(ap.exibirInformações());
 
 //4
-                                                                                                                                                                    
+
+import entradaDados from 'readline-sync';
+let nome = entradaDados.question("Informe seu nome: ")
+console.log(`ola, ${nome}`);
 
 
