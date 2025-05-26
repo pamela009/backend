@@ -5,12 +5,13 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "exercicio01.js",
+  "type": "module",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
+    
     "url": "git+https://github.com/pamela009/backend.git"
   },
   "keywords": [],
